@@ -1,0 +1,8 @@
+  
+*.pyc
+__pycache__/
+media
+.Python
+.venv/
+virtuosa/
+key.txt

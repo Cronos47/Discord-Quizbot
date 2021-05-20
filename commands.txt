@@ -1,0 +1,6 @@
+cd QuizBot
+git init
+git add
+git commit -m "Commit"
+heroku create
+git push heroku master
